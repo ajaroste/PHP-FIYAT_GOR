@@ -25,23 +25,23 @@ if($fytdeger == "F1")
 elseif($fytdeger == "F2") {
 
     $fytdata ='FIYAT2';
-    $ind1fytdata ='F2IND2';
+    $ind1fytdata ='F2IND1';
     $ind2fytdata ='F2IND2';
 }
 elseif($fytdeger =="F3") {
 
     $fytdata ='FIYAT3';
-    $ind1fytdata ='F3IND3';
+    $ind1fytdata ='F3IND1';
     $ind2fytdata ='F3IND2';
 }
 elseif($fytdeger == "F4") {
     $fytdata ='FIYAT4';
-    $ind1fytdata ='F4IND4';
+    $ind1fytdata ='F4IND1';
     $ind2fytdata ='F4IND2';
 }
 elseif($fytdeger == "F5") {
     $fytdata ='FIYAT5';
-    $ind1fytdata ='F5IND5';
+    $ind1fytdata ='F5IND1';
     $ind2fytdata ='F5IND2';
 }
 else{
