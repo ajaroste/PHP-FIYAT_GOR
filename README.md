@@ -1,2 +1,2 @@
-# PHP-FIYAT_GOR
+# PHP-FİYAT_GÖR
 Bilnex Yazılım için oluşturulan açık kaynaklı web sayfasıdır.
